@@ -1,0 +1,36 @@
+# Apps that ccu is never auto-approved to use.
+# One app name per line, as shown in the app's menu bar. Case-insensitive, whole words.
+# Lines starting with # are ignored. Changes apply to the next action.
+
+# Mail & chat
+Mail
+Outlook
+邮件
+Messages
+信息
+WeChat
+微信
+QQ
+Telegram
+WhatsApp
+Slack
+Discord
+Signal
+LINE
+FaceTime
+
+# Passwords & payments
+Passwords
+密码
+Keychain Access
+钥匙串访问
+1Password
+Bitwarden
+Wallet
+钱包
+
+# System
+System Settings
+System Preferences
+系统设置
+系统偏好设置
